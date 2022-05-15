@@ -11,8 +11,8 @@ Among the latest achievements, I would like to highlight:
 1) 2-time finalist of the NTI Olympiad (Smart City and Advanced Manufacturing Technologies), 2) Winner of the All-Russian competition of engineering projects "REAKTOR" of the NTI Circle Movement, 3) Winner of the All-Russian competition of digital competencies "Talent 20.35", 4) Certified ASCON specialist in KOMPAS-3D v18 (2020), 5) Member of the technical shifts of the ICC "ARTEK" and the All-Russian Center "Orlyonok", 6) Member of the APFSD forum on ecology and energy (500 best from Eurasia), 7) Enter the database of gifted children of the Military Innovation Technopolis "ERA" and the Talent and Success Foundation, 8) Graduate of the Samsung IT School, Skolkovo FPGA School, 9) Graduate of the Republican Children's Educational Technopark, 10) Graduate of the Avrora Talent Development Center, 11) Participant of an educational internship at the Department of Computer Architecture NTI technologies, mentored by Khalid Dianov and Alexander Kalinnikov, 12) Winner of the All-Russian Engineering School "Oil Kitchen", 13) Developer of the All-Russian Online Hack tone on 3D innovation, is included in the list of events that count for additional. USE scores of the Talent system 20.35, 14) Winner of a grant from the Ministry of Education of the Russian Federation for the development of digital projects, 15) Member of the Russian team at the International Exhibition of Young Inventors IEYI-2021, 16) Finalist of the Slush International Startup Event (Helsinki), 17 ) Winner of the Olympiad NTO (NTI) "Smart City", student track, Tomsk, 18) Winner of the Olympiad NTO (NTI) "Advanced production technologies", student track, St. Petersburg, 19) Member of the expert council for Science and Education of the Youth Parliament of the State Duma and a member of the NTI working group on IT education, 20) Winner of the All-Russian grant competition "UMNIK MSTU named after N.E. Bauman".
 All achievements can be found here - (https://disk.yandex.ru/d/S3_epyZkEp_o8w) or here (https://disk.yandex.ru/d/1wy_1v5TUq-u5w)
 
-Area of ​​scientific interests on rocket and space topics:
-Rocket and space technology
+Area of ​​scientific interests in rocket and space topics and astronautics:
+
 1. Control systems for launch vehicles, missiles, cruise missiles and spacecraft, aircraft
 2. Rocket engines
 3. Systems of stabilization, navigation and orientation of spacecraft, aircraft
@@ -113,3 +113,53 @@ Rocket and space technology
 98. Navigation and ballistic support for spacecraft flight control
 99. Management of a group of moving objects
 100. Numerical Algorithms and Data Structures
+101. Heat engineering
+102. Durability of launch vehicles
+103. Devices and systems of spacecraft orientation
+104. Gyroscopic instruments
+105. Automatic stabilization
+106. Instrumentation technologies
+107. Unmanned astronautics
+108. Microprocessor tech
+109. 109. Instruments of celestial navigation
+110. UAV power automation devices
+111. Discrete Mathematics
+112. Random Processes and Statistical Technologies
+113. Models and algorithms of UAV digital control systems
+114. Fundamentals of the theory of flight and navigation systems
+115. Modern systems of information exchange with spacecraft
+116. Ballistic and aerodynamic design
+117. Aviation ammunition
+118. Artillery weapons
+119. New ways to launch rockets and spacecraft
+120. Payload output systems
+121. Methods for optimizing aircraft control
+122. Mathematical preparation of ballistic and navigation support for space flights
+123. Mathematical modeling of space flight control
+124. Mathematical methods of control and processing of spacecraft flight data
+125. Theory of space flight
+126. Aerodynamics of rockets and transport systems
+127. Modern systems of information exchange with spacecraft
+128. High-precision navigation systems
+129. Modeling and testing of ACS
+130. Control computers and complexes
+131. Radar and information-measuring complexes
+132. Dynamic design of aircraft guidance systems
+133. Space robotics
+134. Missile launchers and missile launchers
+135. Design of naval missile systems
+136. Aircraft missile systems control systems
+137. Theory of elasticity
+138. Fundamentals of the theory of plasticity
+139. Avionics
+140. Aeroacoustics
+141. Statics and dynamics
+142. Effective scattering area
+143. Barrel rocket weapon
+144. Warheads of missiles and aerial bombs
+145. Synthesis-engineering of rocket and space systems
+146. Simulation of spacecraft flight
+147 Nonlinear and Stochastic Modeling
+148. Systems of missile and aircraft weapons
+149. High-precision aircraft
+150. Missile and impulse systems
