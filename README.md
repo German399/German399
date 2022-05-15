@@ -153,13 +153,4 @@ Area of ​​scientific interests in rocket and space topics and astronautics:
 138. Fundamentals of the theory of plasticity
 139. Avionics
 140. Aeroacoustics
-141. Statics and dynamics
-142. Effective scattering area
-143. Barrel rocket weapon
-144. Warheads of missiles and aerial bombs
-145. Synthesis-engineering of rocket and space systems
-146. Simulation of spacecraft flight
-147 Nonlinear and Stochastic Modeling
-148. Systems of missile and aircraft weapons
-149. High-precision aircraft
-150. Missile and impulse systems
+
