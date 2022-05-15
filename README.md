@@ -1,115 +1,115 @@
-Меня зовут Янгалин Герман Русланович, золотой медалист, я студент-изобретатель-рационализатор-инноватор из МГТУ им. Н.Э. Баумана. Моя специальность 24.05.06 "Системы управления летательными аппаратами", специализация "Системы управления ракет-носителей и КА", факультет ракетно-космической техники при РКК "Энергия". Также планирую второе высшее по специальности 24.05.01 "Проектирование, производство, эксплуатация ракет и ракетно-космических комплексов" и поступление в ВУЦ МГТУ им. Н.Э. Баумана по специальности «Эксплуатация и ремонт автоматизированных комплексов баллистических стратегических ракет наземного базирования» или
-«Радиоэлектронные системы и комплексы», в крайнем варианте в ВУЦ НИУ МАИ «Эксплуатация и ремонт систем управления баллистических стратегических ракет и проверочно-пускового оборудования ракетных комплексов наземного базирования».
+My name is Yangalin German Ruslanovich, a gold medalist, I am a student-inventor-innovator from Moscow State Technical University. N.E. Bauman. My specialty 24.05.06 "Aircraft Control Systems", specialization "Control Systems of Launch Vehicles and Spacecraft", Faculty of Rocket and Space Technology at RSC Energia. I am also planning a second degree in the specialty 24.05.01 "Design, production, operation of rockets and rocket-space systems" and admission to the Moscow State Technical University. N.E. Bauman majoring in "Operation and repair of automated systems of ground-based ballistic strategic missiles" or
+"Radioelectronic systems and complexes", in the extreme version in the VUTs NRU MAI "Operation and repair of control systems for ballistic strategic missiles and test and launch equipment for ground-based missile systems."
 
-Мой сайт - https://yanips.com/, сайт одного из моих стартапов - https://carbotech.website/.
+My website is https://yanips.com/, the website of one of my startups is https://carbotech.website/.
 
-1. Занимаюсь 3D-моделированием (КОМПАС-3D, SolidWorks, SolidEdge, Autodesk Inventor, Autodesk Fusion 360, AutoCAD, CREO); 2. Прочностным, аэрогазодинамическим анализом (Ansys, Femap); 3. Электроникой и программированием микроконтроллеров, схемотехникой, интерфейсы - (Arduino, Raspberry Pi3, STM32, STM8, Omega Plus, MultiSim, ARM, RISC-V, AVR, SPI, I2C, UART, CAN, АЦП, ЦАП, DDR, Space Wire, Ethernet, SATA, USB, PCIe); 4. ПЛИС (FPGA) (Quartus + Altera, Xilinx), CPLD, FPAA, ASIC, а также знаю цифровую и аналоговую схемотехнику; 5. Компьютерным зрением (OpenCV3 + OpenMV3); 6. MATLAB & Simulink & SiminTech; 7, Спортивным программирование и CTF; 8, Физикой, математикой, химией, астрономией и информатикой; 9. Проектированием печатных плат и электроники (Altium Designer, Multisim); 10. Нейронными сетями и машинным обучением (Keras, Numpy, Pytorch) + мат. вычисления в Wolfram; 11. Обработкой естественного языка, аудио (BERT, pyaudio), 12. Исследованиями в области ракетно-космической техники, авиации, радиоэлектронным систем и комплексов, вертолётостроения, военной техники и вооружения, НВИЭ, радиоэлектронных систем и комплексов; 13. Патентной аналитикой, изучением патентов и научных статей, НИОКР, а также оформлением более 50 патентов и свидетельство ЭВМ, БД, ТИМС, 14. Прикладной анализ (Labview, MathCAD), 15. Мобильной и Web-разработкой (Java + Spring, Django + Python), 16. Цифровая обработка сигналов (Модуляция/Демодуляция, Синхронизация, Помехоустойчивое кодирование, Python + Вуз. математика), 17. Изучением иностранных языков (Английский, немецкий, французский, испанский, норвежский, шведский, датский, финский, нидерландский, китайский, японский, корейский), 18. Чтением более 200 книг научно-технической и аналитической направленности в год, 19. Системной аналитикой и анализом, 20. Каратэ (Коричневый пояс + 3 категория по судейству), футболом и хоккеем, промышленным дизайном и футурологией.
-, 21. Системным администрированием Linux: Ubuntu, Noobs, Red Hat, 22. Изучаю блокчейн, 23. Изучаю новые языки программирования: Scala, Haskell, Assembler, System Verilog/VHDL, Ruby, Kotlin, Perl 24. Разрабатываю собственные библиотеки для систем космических аппаратов на C++, Python, 25. Занимаюсь разработкой и администрированием БД: MySQL, PostgreSQL, SQLite, 26. Занимаюсь разработкой гибридных вычислений (MATLAB, Inmost), 27. Занимаюсь ТРИЗ (Теорией решения изобретательских задач), 28. Информационной безопасностью и этичным хакингом (Kali Linux, WireShark,Beagle Bone, HackRD, Ubertooth, YardStick, , 29. VR/AR и анимацией : Unity, 3DMax, Blender, 30. ROS, 31. Photoshop, промышленным, футурологическим дизайном, 32. Изучаю Cadence, 33. Читаю более 200 книг в год, 34. Беспилотными летательными аппаратами, летательными аппаратами нетрадиционных схем, 35. Экономикой и инновациями, научной организацией труда, 5S, 36. GitHUB, Системы контроля версий, 37. Agile, Trello, Miro, 38. Знаю английский - B2, Немецкий, Норвежский, Шведский, Датский - A2, Финский - A1, 38. Умею пользоваться лабораторными измерительными приборами, 39. Умение делать чертежи и оформлять тех. документацию, 40. Умею составлять патентные ландшафты и R&D-антуражи, 41. Умею работать со станками: 3D-принтеры, лазерные, фрезерные, токарные и т.д., 42 Умею паять радикомпоненты (SMD, QFN, QFP), использовать паяльный фен, сваривать детали (MMA, MIG-MAG, TIG), 43. Работаю по 16-19 часов в день каждый день, 44. Умею быстро налаживать общение с людьми, 45. Знание MS Office, 46. Хорошо знаю ГОСТы, 47. Создал и реализовал более 30 инновационных проектов, НИР, 48. Создание UNIT-тестов 49. Алгоритмы, олимпиадное программирование
-50. Прохожу более 100 курсов на образовательной платформе Stepik.
+1. I am engaged in 3D modeling (KOMPAS-3D, SolidWorks, SolidEdge, Autodesk Inventor, Autodesk Fusion 360, AutoCAD, CREO); 2. Strength, aerogasdynamic analysis (Ansys, Femap); 3. Electronics and programming of microcontrollers, circuitry, interfaces - (Arduino, Raspberry Pi3, STM32, STM8, Omega Plus, MultiSim, ARM, RISC-V, AVR, SPI, I2C, UART, CAN, ADC, DAC, DDR, Space Wire , Ethernet, SATA, USB, PCIe); 4. FPGA (FPGA) (Quartus + Altera, Xilinx), CPLD, FPAA, ASIC, and I also know digital and analog circuitry; 5. Computer vision (OpenCV3 + OpenMV3); 6. MATLAB & Simulink & SiminTech; 7, Sports programming and CTF; 8, Physics, mathematics, chemistry, astronomy and computer science; 9. Design of printed circuit boards and electronics (Altium Designer, Multisim); 10. Neural networks and machine learning (Keras, Numpy, Pytorch) + mat. calculations in Wolfram; 11. Natural language processing, audio (BERT, pyaudio); 13. Patent analytics, study of patents and scientific articles, R&D, as well as registration of more than 50 patents and certificates of computers, databases, TIMS, 14. Applied analysis (Labview, MathCAD), 15. Mobile and Web development (Java + Spring, Django + Python), 16. Digital Signal Processing (Modulation / Demodulation, Synchronization, ECM, Python + High School Mathematics), 17. Learning Foreign Languages ​​(English, German, French, Spanish, Norwegian, Swedish, Danish, Finnish, Dutch, Chinese, Japanese, Korean), 18. Reading more than 200 scientific, technical and analytical books a year, 19. System analytics and analysis, 20. Karate (Brown belt + 3 category in refereeing), football and hockey, industrial design and futurology .
+, 21. Linux system administration: Ubuntu, Noobs, Red Hat, 22. I study blockchain, 23. I study new programming languages: Scala, Haskell, Assembler, System Verilog/VHDL, Ruby, Kotlin, Perl 24. I develop my own libraries for space systems devices in C++, Python, 25. Develop and administer databases: MySQL, PostgreSQL, SQLite, 26. Develop hybrid computing (MATLAB, Inmost), 27. Engage in TRIZ (Theory of Inventive Problem Solving), 28. Information security and ethical hacking (Kali Linux, WireShark, Beagle Bone, HackRD, Ubertooth, YardStick, , 29. VR/AR and animation: Unity, 3DMax, Blender, 30. ROS, 31. Photoshop, industrial, futurological design, 32. Studying Cadence, 33. I read more than 200 books a year, 34. Unmanned aerial vehicles, non-traditional aircraft, 35. Economics and innovation, scientific labor organization, 5S, 36. GitHUB, Version control systems, 37. Agile, Trello, Miro, 38. I know English ii - B2, German, Norwegian, Swedish, Danish - A2, Finnish - A1, 38. I know how to use laboratory measuring instruments, 39. Ability to make drawings and draw up technical specifications. documentation, 40. I know how to draw up patent landscapes and R&D entourages, 41. I know how to work with machines: 3D printers, laser, milling, turning, etc., 42 I know how to solder radio components (SMD, QFN, QFP), use a soldering gun , weld parts (MMA, MIG-MAG, TIG), 43. I work 16-19 hours a day every day, 44. I can quickly establish communication with people, 45. Knowledge of MS Office, 46. I know GOSTs well, 47. Created and implemented more than 30 innovative projects, research, 48. Creation of UNIT-tests 49. Algorithms, Olympiad programming
+50. I take more than 100 courses on the Stepik educational platform.
 
-Из последних достижений выделю:
-1) 2-х кратный финалист Олимпиады НТИ (Умный город и Передовые производственные технологии), 2) Призёр Всероссийского конкурса инженерных проектов «РЕАКТОР» Кружкового движения НТИ, 3) Победитель Всероссийского конкурса цифровых компетенций «Талант 20.35», 4) Сертифицированный специалист АСКОН по КОМПАС-3D v18 (2020), 5) Участник технических смен МДЦ «АРТЕК» и ВДЦ «Орлёнок», 6) Участник форума APFSD по экологии и энергетике (500 лучших с Евразии), 7) Вхожу в базу данных одарённых детей Военного инновационного технополиса «ЭРА» и Фонда «Талант и успех», 8) Выпусник IT-школы Samsung, Сколковской школы FPGA , 9) Воспитанник Республиканского детского образовательного технопарка, 10) Воспитанник Центра развития талантов «Аврора», 11) Участник образовательной стажировки при Департаменте архитектуры компьютерных технологий НТИ, под наставничеством Халида Дианова и Александра Калинникова, 12) Победитель Всероссийской инженерной школы «Нефтяная кухня», 13) Разработчик Всероссийского онлайн-хакатона по 3D-инновациям, включён в перечень мероприятий, засчитываемых для доп. баллов ЕГЭ системы Талант 20.35, 14) Обладатель гранта Министерства Просвещения Российской Федерации на развитие цифровых проектов, 15) Вошёл в состав сборной России в рамках Международной выставки юных изобретателей IEYI-2021, 16) Финалист Международного эвента стартаперов "Slush" (Хельсинки), 17) Призёр Олимпиады НТО (НТИ) "Умный город", студ.трек, г. Томск, 18) Победитель Олимпиады НТО (НТИ) "Передовые производственные технологии", студ.трек, г. Санкт-Петербург, 19) Член экспертного совета по науке и образованию Молодёжного парламента Гос.Думы и член рабочей группы НТИ по ИТ-образованию, 20) Победитель Всероссийского грантового конкурса "УМНИК МГТУ им. Н.Э. Баумана".
-Все достижения можно будет найти здесь - (https://disk.yandex.ru/d/S3_epyZkEp_o8w) или здесь (https://disk.yandex.ru/d/1wy_1v5TUq-u5w)
+Among the latest achievements, I would like to highlight:
+1) 2-time finalist of the NTI Olympiad (Smart City and Advanced Manufacturing Technologies), 2) Winner of the All-Russian competition of engineering projects "REAKTOR" of the NTI Circle Movement, 3) Winner of the All-Russian competition of digital competencies "Talent 20.35", 4) Certified ASCON specialist in KOMPAS-3D v18 (2020), 5) Member of the technical shifts of the ICC "ARTEK" and the All-Russian Center "Orlyonok", 6) Member of the APFSD forum on ecology and energy (500 best from Eurasia), 7) Enter the database of gifted children of the Military Innovation Technopolis "ERA" and the Talent and Success Foundation, 8) Graduate of the Samsung IT School, Skolkovo FPGA School, 9) Graduate of the Republican Children's Educational Technopark, 10) Graduate of the Avrora Talent Development Center, 11) Participant of an educational internship at the Department of Computer Architecture NTI technologies, mentored by Khalid Dianov and Alexander Kalinnikov, 12) Winner of the All-Russian Engineering School "Oil Kitchen", 13) Developer of the All-Russian Online Hack tone on 3D innovation, is included in the list of events that count for additional. USE scores of the Talent system 20.35, 14) Winner of a grant from the Ministry of Education of the Russian Federation for the development of digital projects, 15) Member of the Russian team at the International Exhibition of Young Inventors IEYI-2021, 16) Finalist of the Slush International Startup Event (Helsinki), 17 ) Winner of the Olympiad NTO (NTI) "Smart City", student track, Tomsk, 18) Winner of the Olympiad NTO (NTI) "Advanced production technologies", student track, St. Petersburg, 19) Member of the expert council for Science and Education of the Youth Parliament of the State Duma and a member of the NTI working group on IT education, 20) Winner of the All-Russian grant competition "UMNIK MSTU named after N.E. Bauman".
+All achievements can be found here - (https://disk.yandex.ru/d/S3_epyZkEp_o8w) or here (https://disk.yandex.ru/d/1wy_1v5TUq-u5w)
 
-Область научных интересов по ракетно-космической тематике:
-Ракетно-космическая техника
-1. Системы управления РН, ракет, крылатых ракет и КА, ЛА
-2. Ракетные двигатели
-3. Системы стабилизации, навигации и ориентации КА, ЛА
-4. Астрофизическое и астрономическое обеспечение полётов КА
-5. Динамика полёта РН, ракет, крылатых ракет и КА, ЛА
-6. Баллистика, экспериментальная баллистика
-7. Управление движением ЛА, КА
-8. Аэродинамика, аэромеханика КА, ЛА
-9. Материаловедение, композитные материалы
-10. Теория космического полёта
-11. Небесная механика
-12. Спутниковая связь
-13. Ракетно-космические системы выведения
-14. Наземные, морские и воздушные, космические стартовые комплексы
-15. Нетрадиционные схемы компоновок ЛА, КА
-16. ТАУ
-17. Космическая электроника
-18. Теплообмен КА, ЛА
-19. Бортовые комплексы управления КА, ЛА
-20. Малые космические аппараты
-21. Беспилотные космические аппараты
-22. Орбитальная механика и динамика полёта КА, ЛА
-23. Теория колебаний
- 24. Системы наведения и управления высокоточными летательными аппаратами
-25. Строительная механика ракет
-26. Ракетные топлива
-27. Композитные материалы ракет
-28. Основы технологии ракетостроения
-29. Основы проектирования ракет
-30. Информационно-измерительные комплексы космических аппаратов и спутниковой связи
-31. Бортовые и наземные радиотехнические комплексы управления КА
-32. Электроприводы, газприводы и гидропневмоприводы ракет и КА
-33. Инновационные технологии в аэрокосмической технике
-34. Методы расчета движения космических аппаратов
-35.Основы теории орбитального маневрирования в космосе
-36. Навигация ракет и космических аппаратов, методы математической обработки измерений текущих навигационных параметров и определение орбит
-37. Динамическое проектирование управляемых летательных аппаратов и исследование динамики их движения:
-38. Наземный автоматизированный комплекс управления
-39.Методы оценки эффективности летательных аппаратов и их систем.
-40. Разработка качественных, аналитических и численных методов решения дифференциальных уравнений, описывающих движения и вращения тел под действием всемирного тяготения и других сил как в ньютоновом, так и в релятивистском приближении.
-41. Механика полёта
-42.Оптимальное управление детерминированными процессами
-43.Нейросетевые технологии в задачах системного анализа
-44. Распознавание образов в РКТ
-45. ИИ в системах управления движением и навигации
-46. Оптимальное управление многообъектными многокритериальными системами (ММС)
-47. Основы микропроцессорного управления
-48. Проектирование и конструирование РКТ
-49. Физика и химия космоса
-50. Системы жизнеобеспечения, скафандры
-51. Крылатые ракеты
-52. Гидробаллистика
-53. Гидроаэродинамика
-54. Бортовые компьютеры КА
-55. Бортовое радиоэлектронное оборудование
-56. Математические основы теории автоматического управления
-57. Космическая робототехника и манипуляторы
-58. Основы теории сигналов
-59. Навигация, стабилизация и ориентация КА
-60. Эргономика КА
-61. Цифровая обработка сигналов в РКТ, КА и ЛА
-62. Параллельные архитектуры для применения в аэрокосмической области
-63. ДЗЗ
-64. Нейронные сети и глубокое обучение в РКТ
-65. Астродинамика
-66. Межпланетная баллистика
-67. Новые виды энергии в РКТ
-68. Аэрогидромеханика
-69. Методы вычислений
-70. Электронные приборы систем управления КЛА
-71. Бортовые цифровые вычислительные системы
-72. Основы разработки ПО для КА, ЛА и РН
-73. Программирование микроконтроллеров для РКТ
-74. Системы ориентации КА
-75. Бортовые стенды по моделированию систем управления
-76. Алгоритмы обработки информации навигационных систем
-77. Геометрия космических полётов
-78. ТРИЗ в РКТ
-79. Радиоэлектронные системы и комплексы в РКТ
-80. Испытатание летательных аппаратов
-81. Геоинформационные технологии, обработка изображений и полей
-82. Космические приборы
-83. Прикладная мат. физика
-84. Автоматизированные методы расчёта аэрокосмических систем
-85. Аналитические методы решения краевых задач
-86. Гидроаэроупругость конструкций аэрокосмических систем
-87. Проектирование наноспутников и спутников
-88. Управление движением и стабилизация пилотируемых и автоматических космических аппаратов и систем
-89. Численные методы расчета и проектирования космической техники
-90. Системы управления летательными аппаратами в атмосфере
-91. Интеллектуальные системы управления
-92. Основы теории управления нелинейными системами
-93. Статистическая динамика систем управления
-94. Управление в технических системах
-95. Равновесие и устойчивость сложных динамических систем и систем управления
-96. Разработка бортового программного обеспечения систем управления летательными аппаратами
-97. Математическое моделирование динамических систем
-98. Навигационно-баллистическое обеспечение управления полётом космических аппаратов
-99. Управление группой подвижных объектов
-100. Численные алгоритмы и структуры данных
+Area of ​​scientific interests on rocket and space topics:
+Rocket and space technology
+1. Control systems for launch vehicles, missiles, cruise missiles and spacecraft, aircraft
+2. Rocket engines
+3. Systems of stabilization, navigation and orientation of spacecraft, aircraft
+4. Astrophysical and astronomical support of spacecraft flights
+5. Flight dynamics of launch vehicles, missiles, cruise missiles and spacecraft, aircraft
+6. Ballistics, experimental ballistics
+7. Aircraft and spacecraft traffic control
+8. Aerodynamics, Aeromechanics of spacecraft, aircraft
+9. Materials science, composite materials
+10. Theory of space flight
+11. Celestial mechanics
+12. Satellite communications
+13. Rocket and space launch systems
+14. Ground, sea and air, space launch complexes
+15. Non-traditional layouts of aircraft, spacecraft
+16. TAU
+17. Space electronics
+18. Heat exchange KA, LA
+19. Onboard control systems for spacecraft, aircraft
+20. Small spacecraft
+21. Unmanned space vehicles
+22. Orbital mechanics and flight dynamics of spacecraft, aircraft
+23. Theory of vibrations
+ 24. Guidance and control systems for high-precision aircraft
+25. Building mechanics of rockets
+26. Rocket propellants
+27. Composite materials for rockets
+28. Fundamentals of rocket technology
+29. Rocket design basics
+30. Information-measuring complexes of spacecraft and satellite communications
+31. Onboard and ground radio control complexes of spacecraft
+32. Electric drives, gas drives and hydropneumatic drives of missiles and spacecraft
+33. Innovative technologies in aerospace engineering
+34. Methods for calculating the movement of spacecraft
+35. Fundamentals of the theory of orbital maneuvering in space
+36. Navigation of rockets and spacecraft, methods of mathematical processing of measurements of current navigation parameters and determination of orbits
+37. Dynamic design of controlled aircraft and the study of the dynamics of their movement:
+38. Ground automated control system
+39.Methods for evaluating the effectiveness of aircraft and their systems.
+40. Development of qualitative, analytical and numerical methods for solving differential equations describing the movements and rotations of bodies under the action of universal gravitation and other forces, both in the Newtonian and in the relativistic approximation.
+41. Flight mechanics
+42.Optimal control of deterministic processes
+43. Neural network technologies in problems of system analysis
+44. Pattern recognition in RKT
+45. AI in motion control and navigation systems
+46. ​​Optimal control of multi-object multicriteria systems (MMS)
+47. Fundamentals of microprocessor control
+48. Design and construction of RCT
+49. Physics and chemistry of space
+50. Life support systems, spacesuits
+51. Cruise missiles
+52. Hydroballistics
+53. Hydroaerodynamics
+54. On-board computers KA
+55. Onboard electronic equipment
+56. Mathematical foundations of the theory of automatic control
+57. Space robotics and manipulators
+58. Fundamentals of signal theory
+59. Navigation, stabilization and orientation of the spacecraft
+60. Spacecraft Ergonomics
+61. Digital signal processing in RKT, spacecraft and aircraft
+62. Parallel architectures for aerospace applications
+63. remote sensing
+64. Neural networks and deep learning in RCT
+65. Astrodynamics
+66. Interplanetary ballistics
+67. New types of energy in the RKT
+68. Aerohydromechanics
+69. Calculation methods
+70. Electronic devices of spacecraft control systems
+71. Onboard digital computing systems
+72. Fundamentals of software development for spacecraft, aircraft and launch vehicles
+73. Programming microcontrollers for RCT
+74. Spacecraft orientation systems
+75. Onboard stands for modeling control systems
+76. Algorithms for processing information of navigation systems
+77. Geometry of space flights
+78. TRIZ in RKT
+79. Radio-electronic systems and complexes in RKT
+80. Aircraft testing
+81. Geoinformation technologies, image and field processing
+82. Space instruments
+83. Applied mat. physics
+84. Automated methods for calculating aerospace systems
+85. Analytical Methods for Solving Boundary Value Problems
+86. Hydroaeroelasticity of structures of aerospace systems
+87. Design of nanosatellites and satellites
+88. Motion control and stabilization of manned and unmanned spacecraft and systems
+89. Numerical methods for calculating and designing space technology
+90. Aircraft control systems in the atmosphere
+91. Intelligent control systems
+92. Fundamentals of the theory of control of nonlinear systems
+93. Statistical dynamics of control systems
+94. Control in technical systems
+95. Equilibrium and stability of complex dynamic systems and control systems
+96. Development of onboard software for aircraft control systems
+97. Mathematical modeling of dynamic systems
+98. Navigation and ballistic support for spacecraft flight control
+99. Management of a group of moving objects
+100. Numerical Algorithms and Data Structures
