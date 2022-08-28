@@ -1,7 +1,37 @@
-My name is Yangalin German Ruslanovich, a gold medalist, I am a student-inventor-innovator from Moscow State Technical University. N.E. Bauman. My specialty 24.05.06 "Aircraft Control Systems", specialization "Control Systems of Launch Vehicles and Spacecraft", Faculty of Rocket and Space Technology at RSC Energia. I am also planning a second degree in the specialty 24.05.01 "Design, production, operation of rockets and rocket-space systems" and admission to the Moscow State Technical University. N.E. Bauman majoring in "Operation and repair of automated systems of ground-based ballistic strategic missiles" or
-"Radioelectronic systems and complexes", in the extreme version in the VUTs NRU MAI "Operation and repair of control systems for ballistic strategic missiles and test and launch equipment for ground-based missile systems."
+My name is Yangalin German Ruslanovich, gold medalist, Unified State Examination 240+, I am a student-inventor-innovator-technocrat, futurologist-thinker, industrial designer from Moscow State Technical University. N.E. Bauman. My specialty 24.05.06 "Aircraft Control Systems", specialization "Control Systems of Launch Vehicles and Spacecraft", Department of Rocket and Space Engineering at RSC Energia. Another student-innovator from the National Research University Higher School of Economics (Second Higher Education), specialty 01.03.02 "Applied Mathematics and Informatics", specialization "Computer Science and Data Analysis", Faculty of Computer Science. This year he became a free student of the 1st course of the Independent Moscow University.
 
-My website is https://yanips.com/, the website of one of my startups is https://carbotech.website/.
+As well as a design engineer of the 1st category of the Tactical Missiles Corporation.
+
+I also plan to get a third degree in the specialty 24.05.01 "Design, production, operation of rockets and rocket-space systems" and admission to the Moscow State Technical University. N.E. Bauman majoring in "Operation and repair of automated systems of ground-based strategic ballistic missiles" or
+"Radio-electronic systems and complexes", in the extreme version in the VUTs NRU MAI "Operation and repair of control systems for ballistic strategic missiles and test and launch equipment for ground-based missile systems."
+
+My website is https://yanips.com/, the website of one of my startups is https://carbotechlabs.com/
+
+One of the IT startups - http://mydeas.ru/
+
+Also my federal educational project (Top 100 of the Strong Ideas Forum, https://ideas.roscongress.org/improject-16461/ideas/24319) - https://impact-enginner.com/
+
+My GitHUB with innovative projects - https://github.com/German399 and Yandex.Disk with innovative projects - https://disk.yandex.ru/d/R9pPKc5QLfZ_gw
+
+My educational courses - https://stepik.org/users/61018657 and YouTube channel - https://www.youtube.com/channel/UCAHKAxFM54xKP_-E38tZEuQ
+
+Page about me in the "Inspirers" community - https://xn--b1aaffobumib0c5a.xn--p1ai/vdohnovitel/german-yangalin/
+
+My resume in PDF - https://disk.yandex.ru/i/MoJMNZRd0bYNQA
+
+My scientific profiles:
+
+1. ORCID (https://orcid.org/0000-0003-3304-4934)
+
+2. ColabWS (https://colab.ws/researchers/1256)
+
+3. Truth. MSU (https://istina.msu.ru/profile/German27Yangalin/)
+
+4. Researcher ID (https://publons.com/wos-op/researcher/GQA-6289-2022)
+
+5. Google Scholar ID (https://scholar.google.ru/citations?user=z7GvpucAAAAJ)
+
+6. Elibrary (https://elibrary.ru/author_profile.asp?authorid=1149143)
 
 1. I am engaged in 3D modeling (KOMPAS-3D, SolidWorks, SolidEdge, Autodesk Inventor, Autodesk Fusion 360, AutoCAD, CREO); 2. Strength, aerogasdynamic analysis (Ansys, Femap); 3. Electronics and programming of microcontrollers, circuitry, interfaces - (Arduino, Raspberry Pi3, STM32, STM8, Omega Plus, MultiSim, ARM, RISC-V, AVR, SPI, I2C, UART, CAN, ADC, DAC, DDR, Space Wire , Ethernet, SATA, USB, PCIe); 4. FPGA (FPGA) (Quartus + Altera, Xilinx), CPLD, FPAA, ASIC, and I also know digital and analog circuitry; 5. Computer vision (OpenCV3 + OpenMV3); 6. MATLAB & Simulink & SiminTech; 7, Sports programming and CTF; 8, Physics, mathematics, chemistry, astronomy and computer science; 9. Design of printed circuit boards and electronics (Altium Designer, Multisim); 10. Neural networks and machine learning (Keras, Numpy, Pytorch) + mat. calculations in Wolfram; 11. Natural language processing, audio (BERT, pyaudio); 13. Patent analytics, study of patents and scientific articles, R&D, as well as registration of more than 50 patents and certificates of computers, databases, TIMS, 14. Applied analysis (Labview, MathCAD), 15. Mobile and Web development (Java + Spring, Django + Python), 16. Digital Signal Processing (Modulation / Demodulation, Synchronization, ECM, Python + High School Mathematics), 17. Learning Foreign Languages ​​(English, German, French, Spanish, Norwegian, Swedish, Danish, Finnish, Dutch, Chinese, Japanese, Korean), 18. Reading more than 200 scientific, technical and analytical books a year, 19. System analytics and analysis, 20. Karate (Brown belt + 3 category in refereeing), football and hockey, industrial design and futurology .
 , 21. Linux system administration: Ubuntu, Noobs, Red Hat, 22. I study blockchain, 23. I study new programming languages: Scala, Haskell, Assembler, System Verilog/VHDL, Ruby, Kotlin, Perl 24. I develop my own libraries for space systems devices in C++, Python, 25. Develop and administer databases: MySQL, PostgreSQL, SQLite, 26. Develop hybrid computing (MATLAB, Inmost), 27. Engage in TRIZ (Theory of Inventive Problem Solving), 28. Information security and ethical hacking (Kali Linux, WireShark, Beagle Bone, HackRD, Ubertooth, YardStick, , 29. VR/AR and animation: Unity, 3DMax, Blender, 30. ROS, 31. Photoshop, industrial, futurological design, 32. Studying Cadence, 33. I read more than 200 books a year, 34. Unmanned aerial vehicles, non-traditional aircraft, 35. Economics and innovation, scientific labor organization, 5S, 36. GitHUB, Version control systems, 37. Agile, Trello, Miro, 38. I know English ii - B2, German, Norwegian, Swedish, Danish - A2, Finnish - A1, 38. I know how to use laboratory measuring instruments, 39. Ability to make drawings and draw up technical specifications. documentation, 40. I know how to draw up patent landscapes and R&D entourages, 41. I know how to work with machines: 3D printers, laser, milling, turning, etc., 42 I know how to solder radio components (SMD, QFN, QFP), use a soldering gun , weld parts (MMA, MIG-MAG, TIG), 43. I work 16-19 hours a day every day, 44. I can quickly establish communication with people, 45. Knowledge of MS Office, 46. I know GOSTs well, 47. Created and implemented more than 30 innovative projects, research, 48. Creation of UNIT-tests 49. Algorithms, Olympiad programming
@@ -148,9 +178,3 @@ Area of ​​scientific interests in rocket and space topics and astronautics:
 133. Space robotics
 134. Missile launchers and missile launchers
 135. Design of naval missile systems
-136. Aircraft missile systems control systems
-137. Theory of elasticity
-138. Fundamentals of the theory of plasticity
-139. Avionics
-140. Aeroacoustics
-
