@@ -1,3 +1,14 @@
+<h1 align="center">Hi there, I'm <a href="https://vk.com/artem_sann" target="_blank">Artem Sannikov</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&duration=4000&pause=3000&color=0A4F79&background=FCBE3300&center=true&width=700&height=70&lines=Embedded+developer%2C+Robotic+engineer%2C+BMSTU+student)](https://git.io/typing-svg)
+
+![](https://komarev.com/ghpvc/?username=your-github-username)
+<!--
+**artem-sann/artem-sann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
 My name is Yangalin German Ruslanovich, gold medalist, Unified State Examination 260+, I am a student-inventor-innovator-technocrat, futurologist-thinker, industrial designer from Moscow State Technical University. N.E. Bauman. My specialty 24.05.06 "Aircraft Control Systems", specialization "Control Systems of Launch Vehicles and Spacecraft", Department of Rocket and Space Engineering at RSC Energia. Another student-innovator from the National Research University Higher School of Economics (Second Higher Education), specialty 01.03.02 "Applied Mathematics and Informatics", specialization "Computer Science and Data Analysis", Faculty of Computer Science. This year he became a free student of the 1st course of the Independent Moscow University.
 
 As well as a design engineer of the 1st category of the Tactical Missiles Corporation.
