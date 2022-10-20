@@ -1,6 +1,6 @@
 My name is Yangalin German Ruslanovich, gold medalist, Unified State Examination 260+, I am a student-inventor-innovator-technocrat, futurologist-thinker, industrial designer from Moscow State Technical University. N.E. Bauman. My specialty 24.05.06 "Aircraft Control Systems", specialization "Control Systems of Launch Vehicles and Spacecraft", Department of Rocket and Space Engineering at RSC Energia. Another student-innovator from the National Research University Higher School of Economics (Second Higher Education), specialty 01.03.02 "Applied Mathematics and Informatics", specialization "Computer Science and Data Analysis", Faculty of Computer Science. This year he became a free student of the 1st course of the Independent Moscow University.
 
-As well as a design engineer of the 1st category of the Tactical Missiles Corporation.
+As well as a design engineer of the 1st category of the Tactical Missiles Corporation and Assistant at the UAV-Laboratory of the Skoltech Space Center
 
 I also plan to get a third degree in the specialty 24.05.01 "Design, production, operation of rockets and rocket-space systems" and admission to the Moscow State Technical University. N.E. Bauman majoring in "Operation and repair of automated systems of ground-based strategic ballistic missiles" or
 "Radio-electronic systems and complexes", in the extreme version in the VUTs NRU MAI "Operation and repair of control systems for ballistic strategic missiles and test and launch equipment for ground-based missile systems."
