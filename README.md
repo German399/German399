@@ -17,7 +17,7 @@ My educational courses - https://stepik.org/users/61018657 and YouTube channel -
 
 Page about me in the "Inspirers" community - https://xn--b1aaffobumib0c5a.xn--p1ai/vdohnovitel/german-yangalin/
 
-My resume in PDF - https://disk.yandex.ru/i/MoJMNZRd0bYNQA
+My updated CV - https://disk.yandex.ru/i/UZvQxH4dGDWkZg
 
 My scientific profiles:
 
@@ -32,6 +32,8 @@ My scientific profiles:
 5. Google Scholar ID (https://scholar.google.ru/citations?user=z7GvpucAAAAJ)
 
 6. Elibrary (https://elibrary.ru/author_profile.asp?authorid=1149143)
+
+7. Scopus (Coming soon)
 
 My hobbies:
 
