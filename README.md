@@ -13,7 +13,7 @@
 <br />
 <br />
 
-![alt text](https://aviation21.ru/wp-content/uploads/2018/11/su-57-zvezda4.jpg)
+![Su-57](https://aviation21.ru/wp-content/uploads/2018/11/su-57-zvezda4.jpg)
 
 <br />
 <br />
