@@ -13,9 +13,7 @@
 <br />
 <br />
 
-![Su-57](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sukhoi_Design_Bureau%2C_054%2C_Sukhoi_Su-57_%2849581303977%29.jpg/300px-Sukhoi_Design_Bureau%2C_054%2C_Sukhoi_Su-57_%2849581303977%29.jpg)
-
-
+![alt text](https://upload.wikimedia.org/wikipedia/commons/2/2b/Sukhoi_Design_Bureau%2C_054%2C_Sukhoi_Su-57_%2849581303977%29.jpg)
 ## I'm a Aerospace Engineer | AI-Specialist | Inventor | Startuper | Young scientist | Technopatriot
 
 - 🚀 I love Aerospace and Military technologies
@@ -43,6 +41,11 @@
 <br />
 <br />
 
+### My secondary general and additional education :
+
+
+<br />
+<br />
 
 ### My scientific and professional work experience :
 
@@ -60,6 +63,12 @@
 
 ### My scientific profiles :
 
+
+<br />
+<br />
+
+
+### Main awards and merits:
 
 <br />
 <br />
