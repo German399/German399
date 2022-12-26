@@ -13,7 +13,7 @@
 <br />
 <br />
 
-![alt text](https://upload.wikimedia.org/wikipedia/commons/2/2b/Sukhoi_Design_Bureau%2C_054%2C_Sukhoi_Su-57_%2849581303977%29.jpg)
+![alt text](https://aviation21.ru/wp-content/uploads/2018/11/su-57-zvezda4.jpg)
 
 <br />
 <br />
