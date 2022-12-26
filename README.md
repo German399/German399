@@ -13,7 +13,9 @@
 <br />
 <br />
 
-![alt text](https://img.gazeta.ru/files3/934/14722934/RIAN_6600863.HR-pic_32ratio_900x600-900x600-31923.jpg)
+![Su-57](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Sukhoi_Design_Bureau%2C_054%2C_Sukhoi_Su-57_%2849581303977%29.jpg/300px-Sukhoi_Design_Bureau%2C_054%2C_Sukhoi_Su-57_%2849581303977%29.jpg)
+
+
 ## I'm a Aerospace Engineer | AI-Specialist | Inventor | Startuper | Young scientist | Technopatriot
 
 - 🚀 I love Aerospace and Military technologies
