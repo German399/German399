@@ -3,6 +3,7 @@
 <br />
 
 
+
 ![](https://komarev.com/ghpvc/?username=your-github-username)
 ![](https://img.shields.io/github/followers/German399?style=social)
 ![](https://img.shields.io/twitter/follow/german_nanoengi?style=social)
@@ -12,12 +13,21 @@
 <br />
 <br />
 
+![alt text](https://img.gazeta.ru/files3/934/14722934/RIAN_6600863.HR-pic_32ratio_900x600-900x600-31923.jpg)
 ## I'm a Aerospace Engineer | AI-Specialist | Inventor | Startuper | Young scientist | Technopatriot
 
 - 🚀 I love Aerospace and Military technologies
 - ✈️ I love UAV-Technlologies
-- 💪 I like to write code
-  
+- 💻 I like to write code
+- 💰 I love to work very hard
+- 📐 I love physical and mathematical sciences
+- 📝 I have been engaged in scientific, design, engineering activities for more than 9 years
+- 🔧 Inspired by TRIZ)
+- 🚁 I issue more than 20 patents and 50 scientific articles
+- 💗 Founder of 5 technology startups
+- 🚝 I develop engineering education and science-intensive technologies in the Russian Federation
+
+
 
 <br />
 <br />
