@@ -16,6 +16,9 @@
 ![alt text](https://aviation21.ru/wp-content/uploads/2018/11/su-57-zvezda4.jpg)
 ## I'm a Aerospace Engineer | AI-Specialist | Inventor | Startuper | Young scientist | Technopatriot
 
+<br />
+<br />
+
 - 🚀 I love Aerospace and Military technologies
 - ✈️ I love UAV-Technlologies
 - 💻 I like to write code
@@ -35,31 +38,31 @@
 
 ### My scientific and professional education :
 
-
-
-
-<br />
-<br />
-
-### My secondary general and additional education :
+1) 🚀**Bauman Moscow State Technical University, (Aerospace Engineering)**
+2) 💻**HSE University, (Computer Science and Data Analysis)**
 
 
 <br />
 <br />
+
 
 ### My scientific and professional work experience :
 
+1) ✈️**Skoltech UAV-Lab**
+2) 🕖**Institute for Control Problems RAS**
+3) 🚁**PJSC Ilyushin Aviation Complex**
 
 <br />
 <br />
 
-
-### My scientific and professional interests :
-
-<br />
-<br />
 
 ### My startups and projects :
+
+   - [CTNFC TECHNOLOGIES](https://carbotechlabs.com/)
+   - [Impact Engineer](https://impact-engineer.com/)
+   - [Scenery Vision](https://scenery-vision.com/)
+   - [Skyonix Aerospace](https://www.reddit.com/r/skyonix/comments/tyfvjo/%D1%87%D1%82%D0%BE_%D1%82%D0%B0%D0%BA%D0%BE%D0%B5_skyonix_aerospace/)
+   - [Innovators-Inventors](https://innovators-inventors.com/)
 
 
 <br />
@@ -67,6 +70,15 @@
 
 
 ### My scientific profiles :
+
+- [ORCID](https://orcid.org/0000-0003-3304-4934)
+- [Colab](https://colab.ws/researchers/R-338AB-101FB-BD73C)
+- [IstinaMSU](https://istina.msu.ru/profile/German27Yangalin/)
+- [WoS](https://www.webofscience.com/wos/author/record/32826518)
+- [Google Scholar](https://scholar.google.ru/citations?user=z7GvpucAAAAJ)
+- [Elibrary](https://www.elibrary.ru/author_profile.asp?authorid=1149143)
+- [Scopus]()
+
 
 
 <br />
