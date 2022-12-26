@@ -14,6 +14,10 @@
 <br />
 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/2/2b/Sukhoi_Design_Bureau%2C_054%2C_Sukhoi_Su-57_%2849581303977%29.jpg)
+
+<br />
+<br />
+
 ## I'm a Aerospace Engineer | AI-Specialist | Inventor | Startuper | Young scientist | Technopatriot
 
 - 🚀 I love Aerospace and Military technologies
