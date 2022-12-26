@@ -129,6 +129,8 @@
 ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
 ![ASUS](https://img.shields.io/badge/asus-000080.svg?style=for-the-badge&logo=asus&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![FPGA](https://img.shields.io/badge/fpga-%23121011.svg?style=for-the-badge&logo=linux&logoColor=1147f4)
+![Arduino](https://img.shields.io/badge/arduino-%23121011.svg?style=for-the-badge&logo=arduino&logoColor=1147f4)
 
 
 
@@ -137,30 +139,23 @@
 
 ### Interstings links:
 <!-- BLOG-POST-LIST:START -->
-- [Деструктуризация в JavaScript](https://webtricks-master.ru/javascript/destrukturizatsiya-v-javascript/)
-- [Пишем список задач на React Hooks](https://webtricks-master.ru/react-hooks/pishem-spisok-zadach-na-react-hooks/)
-- [Custom Hooks на примерах. Пишем свой useInput, useFetch, useTheme — React Hooks](https://webtricks-master.ru/react-hooks/custom-hooks-na-primerah-pishem-svoj-useinput-usefetch-usetheme-react-hooks/)
-- [Как подключить Sass к React?](https://webtricks-master.ru/beginners/kak-podklyuchit-sass-k-react/)
-- [Обзор VSCode Stories. Плагины Visual Studio Code](https://webtricks-master.ru/novosti-it/obzor-vscode-stories-plaginy-visual-studio-code/)
+- [My updated resume](https://disk.yandex.ru/i/UZvQxH4dGDWkZg)
+- [My official site](https://yanips.com/)
+- [My resume in hh.ru](https://korolev.hh.ru/resume/ba8f026dff0b342a910039ed1f71634d515471)
+- [My Analytical Telegram channel](https://t.me/yangalintech)
+- [My Habr Account](https://habr.com/ru/users/German2727/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Useful links:
 <!-- BLOG-POST-LIST:START -->
-- [Деструктуризация в JavaScript](https://webtricks-master.ru/javascript/destrukturizatsiya-v-javascript/)
-- [Пишем список задач на React Hooks](https://webtricks-master.ru/react-hooks/pishem-spisok-zadach-na-react-hooks/)
-- [Custom Hooks на примерах. Пишем свой useInput, useFetch, useTheme — React Hooks](https://webtricks-master.ru/react-hooks/custom-hooks-na-primerah-pishem-svoj-useinput-usefetch-usetheme-react-hooks/)
-- [Как подключить Sass к React?](https://webtricks-master.ru/beginners/kak-podklyuchit-sass-k-react/)
-- [Обзор VSCode Stories. Плагины Visual Studio Code](https://webtricks-master.ru/novosti-it/obzor-vscode-stories-plaginy-visual-studio-code/)
+- [My educational courses on Stepik](https://stepik.org/users/61018657)
+- [My official Email](mailto:babasik5@mail.ru)
+- [Interesting post](https://xn--b1aaffobumib0c5a.xn--p1ai/vdohnovitel/german-yangalin/)
+- [My diplomas and certificates](https://disk.yandex.ru/d/S3_epyZkEp_o8w)
+- [CodeForces account](https://codeforces.com/profile/German-Nanoengineer)
 <!-- BLOG-POST-LIST:END -->
 
-### My YouTube Videos:
-<!-- YOUTUBE:START -->
-- [Как найти работу джуну без опыта? пошаговая инструкция](https://www.youtube.com/watch?v=DzyKrIBHln8)
-- [Пишем список задач на React &lpar;React Hooks&rpar;](https://www.youtube.com/watch?v=XwIiBXZ41Os)
-- [Custom Hooks на примерах. Пишем свой useInput, useFetch, useTheme - React Hooks](https://www.youtube.com/watch?v=VFefv_YSGfY)
-- [Учим useLayoutEffect за 6 минут - React Hooks](https://www.youtube.com/watch?v=KaaH6cra2lo)
-- [Учим useCallback за 7 минут - React Hooks](https://www.youtube.com/watch?v=AqCkWH4ws1Y)
-<!-- YOUTUBE:END -->
+
 
 <details>
   <summary>:zap: Statistics:</summary>
