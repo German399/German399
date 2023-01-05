@@ -13,7 +13,7 @@
 <br />
 <br />
 
-![alt text](https://aviation21.ru/wp-content/uploads/2018/11/su-57-zvezda4.jpg)
+![alt text](https://sun9-54.userapi.com/impg/pYJeX1s2R_PDuL8ZIxNar6xpnRiz566RKYOy2Q/jfoNRi-38Gs.jpg?size=1920x1440&quality=96&sign=bbd96f40ba0a3532dfd87baeb35eb275&type=album)
 ## I'm a Aerospace Engineer | AI-Specialist | Inventor | Startuper | Young scientist | Technopatriot
 
 <br />
