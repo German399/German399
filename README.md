@@ -201,7 +201,7 @@ digital technologies in the amount of 125 thousand rubles
 
 ### Interstings links:
 <!-- BLOG-POST-LIST:START -->
-- [My updated resume](https://disk.yandex.ru/i/UZvQxH4dGDWkZg)
+- [My updated resume](https://disk.yandex.ru/i/NZfuRXpsb_fPAA)
 - [My official site](https://yanips.com/)
 - [My resume in hh.ru](https://korolev.hh.ru/resume/ba8f026dff0b342a910039ed1f71634d515471)
 - [My Analytical Telegram channel](https://t.me/yangalintech)
