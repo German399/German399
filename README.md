@@ -48,7 +48,7 @@
 
 ### My scientific and professional work experience :
 
-1) ✈️**Skoltech UAV-Lab**
+1) 🛰️**Skoltech Advanced Microsatellite Laboratory**
 2) 🕖**Institute for Control Problems RAS**
 3) 🚁**PJSC Ilyushin Aviation Complex**
 
@@ -61,8 +61,8 @@
    - [CTNFC TECHNOLOGIES](https://carbotechlabs.com/)
    - [Impact Engineer](https://impact-engineer.com/)
    - [Scenery Vision](https://scenery-vision.com/)
-   - [Skyonix Aerospace](https://www.reddit.com/r/skyonix/comments/tyfvjo/%D1%87%D1%82%D0%BE_%D1%82%D0%B0%D0%BA%D0%BE%D0%B5_skyonix_aerospace/)
    - [Innovators-Inventors](https://innovators-inventors.com/)
+   - [Other projects](https://yanips.com/)
 
 
 <br />
