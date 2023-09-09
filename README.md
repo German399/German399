@@ -13,8 +13,8 @@
 <br />
 <br />
 
-![alt text](https://sun9-54.userapi.com/impg/pYJeX1s2R_PDuL8ZIxNar6xpnRiz566RKYOy2Q/jfoNRi-38Gs.jpg?size=1920x1440&quality=96&sign=bbd96f40ba0a3532dfd87baeb35eb275&type=album)
-## I'm a Aerospace Engineer | AI-Specialist | Inventor | Startuper | Young scientist | Technopatriot
+![alt text](https://sun9-33.userapi.com/impg/v_ncdsMmnG7J0acaHoaPxs3x4obl_RBwIpj6-Q/LtQzRXApkYs.jpg?size=1620x2160&quality=95&sign=60552a464c3694c54808c3ff15d17f57&type=album)
+## I'm a Aerospace and Defence Engineer | AI-Specialist | Inventor | Startuper | Young scientist | Technopatriot
 
 <br />
 <br />
