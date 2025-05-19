@@ -24,7 +24,7 @@
 - 💻 I like to write code
 - 💰 I love to work very hard
 - 📐 I love physical and mathematical sciences
-- 📝 I have been engaged in scientific, design, engineering activities for more than 9 years
+- 📝 I have been engaged in scientific, design, engineering activities for more than 12 years
 - 🔧 Inspired by TRIZ)
 - 🚁 I issue more than 20 patents and 50 scientific articles
 - 💗 Founder of 2 technology startups
@@ -51,19 +51,6 @@
 
 1) 🛰️**Technovation Concern**
 2) 🕖**OSA Group**
-
-
-<br />
-<br />
-
-
-### My startups and projects :
-
-   - [CTNFC TECHNOLOGIES](https://carbotechlabs.com/)
-   - [Impact Engineer](https://impact-engineer.com/)
-   - [Scenery Vision](https://scenery-vision.com/)
-   - [Innovators-Inventors](https://innovators-inventors.com/)
-   - [Other projects](https://yanips.com/)
 
 
 <br />
@@ -187,20 +174,15 @@ digital technologies in the amount of 125 thousand rubles
 
 ### Interstings links:
 <!-- BLOG-POST-LIST:START -->
-- [My updated resume](https://disk.yandex.ru/i/NZfuRXpsb_fPAA)
 - [My official site](https://yanips.com/)
-- [My resume in hh.ru](https://korolev.hh.ru/resume/ba8f026dff0b342a910039ed1f71634d515471)
 - [My Analytical Telegram channel](https://t.me/yangalintech)
-- [My Habr Account](https://habr.com/ru/users/German2727/)
 <!-- BLOG-POST-LIST:END -->
 
 ### Useful links:
 <!-- BLOG-POST-LIST:START -->
 - [My educational courses on Stepik](https://stepik.org/users/61018657)
 - [My official Email](mailto:babasik5@mail.ru)
-- [Interesting post](https://xn--b1aaffobumib0c5a.xn--p1ai/vdohnovitel/german-yangalin/)
 - [My diplomas and certificates](https://disk.yandex.ru/d/S3_epyZkEp_o8w)
-- [CodeForces account](https://codeforces.com/profile/German-Nanoengineer)
 <!-- BLOG-POST-LIST:END -->
 
 
