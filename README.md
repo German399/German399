@@ -13,8 +13,8 @@
 <br />
 <br />
 
-![alt text](https://sun9-33.userapi.com/impg/v_ncdsMmnG7J0acaHoaPxs3x4obl_RBwIpj6-Q/LtQzRXApkYs.jpg?size=1620x2160&quality=95&sign=60552a464c3694c54808c3ff15d17f57&type=album)
-## I'm a Aerospace and Defence Engineer | AI-Specialist | Inventor | Startuper | Young scientist | Technopatriot
+![alt text](https://sun9-14.userapi.com/impg/PpcG6N2HZdqQrqOZ-7UXk_TS9KYs75pE1PrgaA/DN3jBPzD9zk.jpg?size=1280x960&quality=95&sign=7944729e6e699fc608faf2ccfb83e69d&type=album)
+## Architect in the field of aerospace and military technology with over 12 years of experience, CEO of Technovation Concern and OSA Group
 
 <br />
 <br />
@@ -27,7 +27,7 @@
 - 📝 I have been engaged in scientific, design, engineering activities for more than 9 years
 - 🔧 Inspired by TRIZ)
 - 🚁 I issue more than 20 patents and 50 scientific articles
-- 💗 Founder of 5 technology startups
+- 💗 Founder of 2 technology startups
 - 🚝 I develop engineering education and science-intensive technologies in the Russian Federation
 
 
@@ -38,8 +38,9 @@
 
 ### My scientific and professional education :
 
-1) 🚀**Bauman Moscow State Technical University, (Aerospace Engineering)**
-2) 💻**HSE University, (Computer Science and Data Analysis)**
+1) 🚀**Kazan National Research Technical University - KAI, (Radioelectronic systems and complexes)**
+2) 💻**Perm campus of the National Research University Higher School of Economics (Automation software and development tools)**
+3) ✈️**Tomsk University of Control Systems and Radioelectronics (Radio engineering)**
 
 
 <br />
@@ -48,9 +49,9 @@
 
 ### My scientific and professional work experience :
 
-1) 🛰️**Skoltech Advanced Microsatellite Laboratory**
-2) 🕖**Institute for Control Problems RAS**
-3) 🚁**PJSC Ilyushin Aviation Complex**
+1) 🛰️**Technovation Concern**
+2) 🕖**OSA Group**
+
 
 <br />
 <br />
@@ -68,21 +69,6 @@
 <br />
 <br />
 
-
-### My scientific profiles :
-
-- [ORCID](https://orcid.org/0000-0003-3304-4934)
-- [Colab](https://colab.ws/researchers/R-338AB-101FB-BD73C)
-- [IstinaMSU](https://istina.msu.ru/profile/German27Yangalin/)
-- [WoS](https://www.webofscience.com/wos/author/record/32826518)
-- [Google Scholar](https://scholar.google.ru/citations?user=z7GvpucAAAAJ)
-- [Elibrary](https://www.elibrary.ru/author_profile.asp?authorid=1149143)
-- [Scopus]()
-
-
-
-<br />
-<br />
 
 
 ### Main last awards and merits:
@@ -143,7 +129,7 @@ digital technologies in the amount of 125 thousand rubles
 
 
 ### Connect with me:
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/german2035)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/YaGRtech)
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/channel/UCAHKAxFM54xKP_-E38tZEuQ)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/german_olympiad2035/?r=nametag)
 [![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter&logoColor=1C9DEB)](https://twitter.com/german_nanoengi)
