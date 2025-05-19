@@ -53,68 +53,6 @@
 2) 🕖**OSA Group**
 
 
-<br />
-<br />
-
-
-
-### Main last awards and merits:
-
-1) Winner of the NTO Olympiad, stud. track (Advanced
-production technologies)
-2) Prize-winner of the NTO Olympiad, stud. track (Smart city)
-3) Speaker at SPIEF-2022 on the subject of Youth
-design bureaus
-4) Speaker at the EEF-2022 on the topic of Youth Design
-the Bureau
-5) Speaker at the Congress of Young Scientists - 2022 by topic
-Youth design bureaus
-6) Winner UMNIK MSTU im. N.E. Bauman
-7) Finalist of the rocket hackathon of the All-Russian contest “Line
-Karmana"
-8) Finalist of the All-Russian competition “Stratospheric Satellite”
-9) Diploma of the International School of Astronautics
-Harbin Institute of Technology
-10) Certificate of completion of the Institute of Education and Science "Avionics" MSTU. N.E.
-Bauman
-11) Diploma of the finalist of the Eurasian Patent Universiade
-12) Baumanka Engineering Hackathon finalist certificate
-13) Diploma of graduation from the Skolkovo FPGA school
-14) Finalist certificate of the All-Russian Scientific Conference
-"Orbit of Youth"
-15) Certificate of participation in the All-Russian Mathematical School-
-seminar on supercomputer modeling of Rosatom | 
-RFNC-VNIIEF
-16) Innopolis University Accelerator winner, project -
-CTNFC Technologies
-17) Nvidia AI Completion Certificate
-18) Winner of the International Exhibition of Young Inventors
-IEYI-2021 in a special nomination
-19) Finalist of Startup event - Slush-2021
-20) Student on an additional professional program
-“Modern Patent Analytics” based on the Federal
-Center "Sirius"
-21) Certificate of a member of the NTI expert group No. 2 “Preparation of IT-
-specialists in basic educational programs in
-conditions of the digital economy”, (Expert certificate No.
-2021-02-207)
-22) Certificate holder in the scientific company of the Military Innovation
-technopolis "ERA" of the Ministry of Defense of the Russian Federation, (Certificate No. Reg.
-No. BD-000-122)
-23) Entered the database of gifted children of the Talent and Success Foundation
-24) Diploma of the winner of the All-Russian competition of the Ministry
-Enlightenment for special abilities in mathematics, computer science and
-digital technologies in the amount of 125 thousand rubles
-25) Winner of the All-Russian competition of digital competencies
-“Talent 20.35”, track - (Solution of complex engineering problems)
-
-
-
-<br />
-<br />
-
-
-
 ### Connect with me:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/YaGRtech)
 [![YouTube](https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/channel/UCAHKAxFM54xKP_-E38tZEuQ)
