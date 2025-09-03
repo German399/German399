@@ -38,9 +38,8 @@
 
 ### My scientific and professional education :
 
-1) 🚀**Kazan National Research Technical University - KAI, (Radioelectronic systems and complexes)**
-2) 💻**Perm campus of the National Research University Higher School of Economics (Automation software and development tools)**
-3) ✈️**Tomsk University of Control Systems and Radioelectronics (Radio engineering)**
+1) 🚀**NRU MPEI (11.03.01 "Radio Engineering", specialization ("Wireless Technologies and the Internet of Things"), bachelor's degree)**
+2) ✈️**TUSUR (11.03.04 "Electronics and Nanoelectronics", specialization ("Industrial Electronics"), bachelor's degree)**
 
 
 <br />
